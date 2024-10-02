@@ -1,1 +1,3 @@
-
+{
+	"name": "EliTechWiz-V2"
+}
